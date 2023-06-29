@@ -19,7 +19,8 @@ class Report extends Controller
             [
                 "NAMA"  => "Vergil",
                 "SKILL" => "Dark Slayer"
-            ],[
+            ],
+            [
                 "NAMA"  => "Dante",
                 "SKILL" => "Trickster"
             ],
